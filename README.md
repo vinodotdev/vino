@@ -1,6 +1,6 @@
 # vino
 
-**The Vino runtime, `vino`, `vow`, `vinoc` and the rest of the vino tools will be open sourced once APIs settle.**
+*The Vino runtime, `vino`, `vow`, `vinoc` and the rest of the vino tools will be open sourced once APIs settle.*
 
 Download the current release binaries from [releases.vino.dev](https://releases.vino.dev).
 
